@@ -5,7 +5,7 @@ http://www.einsteinium.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2014 Einsteinium Developers
+Copyright (c) 2014-2015 Einsteinium Developers
 
 
 What is Einsteinium?
@@ -25,7 +25,7 @@ Einsteinium is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 - Donation to to faucets, give-aways and marketing (per block): 0.5%
 
 For more information, as well as an immediately useable, binary version of
-the Einsteinium client sofware, see http://www.einsteinium.org.
+the Einsteinium client sofware, see http://www.einsteinium.biz.
 
 License
 -------
